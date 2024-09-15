@@ -16,3 +16,12 @@ I have developed a website that consolidates various assignments, providing a ce
 ### Screenshot
 
 ![Screenshot](./repo/screenshot.png)
+
+### Setup
+This projects uses vue.js. For obtaining necessecary packages (addiditional libraries) Node.js is used.
+* checkout & fork repo 
+* //npm install// in the main folder
+* //npm run dev//
+* make additions / features
+* create pull request
+* enjoy ty for checking out this project
